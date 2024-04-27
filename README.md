@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Data Scientist & Software Developer:
 Economista con Maestría en Ingeniería de Software y más de 6 años de experiencia en Data Science y Business Intelligence. Poseo habilidades avanzadas en herramientas como Power BI, Looker Studio y Tableau, así como en la elaboración de ETL usando SQL/MySQL/Postgres, Mongo y Python (Spark/JupyterLab). Poseo experiencia en el desarrollo backend y despliegue de aplicaciones en la nube de AWS y Azure utilizando Python como lenguaje principal de programación. Además, tengo un historial destacado como líder en proyectos de BI para la generación de KPIs y dashboards empresariales<br><br>He desarrollado herramientas para integrar múltiples fuentes de datos con aplicaciones de escritorio, móviles y backend, optimizando su rendimiento con frameworks de APIs REST. Experiencia en migración a la nube con servicios como EC2, ECS, CodeBuilt, CodeCommit, CodePipeline, Fargate y RDS en AWS, incluyendo configuración de CI/CD y de IAM.
 
 
